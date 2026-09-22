@@ -1,0 +1,6 @@
+{
+  "name": "WCS Business Management Platform",
+  "description": "Multi-tenant, configurable SaaS business management platform with custom fields, dynamic report builder, POS billing, Facebook commerce, WhatsApp alerts, and industry modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
